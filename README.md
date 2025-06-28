@@ -1,1 +1,1 @@
-# mvc-spring-boot-hospital-Public
+# mvc-spring-boot-hospital
